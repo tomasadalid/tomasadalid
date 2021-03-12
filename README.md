@@ -1,5 +1,5 @@
 - 👋 Hi, I’m tomas rebot, From Adalid Internet
-- 👀 I’m interested in develope web applications, devops and manage develop operations 
+- 👀 I’m interested in develope web applications and devops. 
 - 🌱 I’m currently learning management tools
 
 - 📫 How to reach me, just send me a email to tomas.rebot@adalid.net ! 
